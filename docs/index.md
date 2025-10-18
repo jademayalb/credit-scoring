@@ -16,7 +16,7 @@ Les objectifs clés de ce projet sont les suivants :
 ### Ressources du Projet
 
 Vous trouverez ci-dessous les liens vers les principaux composants de ce projet :
-* [**Presentation du projet**](https://github.com/jademayalb/segmentation-client-ecommerce/blob/1c35201caa35bf3ca57689233e1bd796ba63fbdd/data/presentation.pdf)
+* [**Presentation du projet**](https://github.com/jademayalb/credit-scoring/blob/8849f4cb65e192b86f505e923605e69c2853ce50/docs/presentation.pdf)
 * [**Code source de l'API Flask**](https://github.com/jademayalb/credit-scoring/tree/main/app)
 * [**Notebooks de modélisation**](https://github.com/jademayalb/credit-scoring/tree/main/notebooks)
 * [**Interface Streamlit**](https://github.com/jademayalb/credit-scoring/blob/main/app_streamlit.py)
