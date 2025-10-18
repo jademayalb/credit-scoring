@@ -22,7 +22,8 @@ Vous trouverez ci-dessous les liens vers les principaux composants de ce projet 
 * [**Notebook de data drift**](https://github.com/jademayalb/credit-scoring/blob/ed76abb6db4063ac407ee71cacabf6eff8dbb845/notebooks/notebook_data_drift_evidently.ipynb)
 * [**Interface Streamlit**](https://github.com/jademayalb/credit-scoring/blob/05eeb9eae81187b2bb6989445c67576a2773f5d8/app_streamlit/app_streamlit.py)
 * [**Rapports d'analyse de dérive**](https://github.com/jademayalb/credit-scoring/tree/main/tableau_html)
-* [**Tests unitaires**](https://github.com/jademayalb/credit-scoring/tree/main/tests) 
+* [**Tests unitaires**](https://github.com/jademayalb/credit-scoring/tree/main/tests)
+* [**Notebook des tests API**](https://github.com/jademayalb/credit-scoring/blob/0a11ec84509cffb416997157e9bbb8b6938e460a/notebooks/notebook_test_API.ipynb)
 
 💻 **Technologies utilisées :** Python, Jupyter Notebook, Flask, Streamlit, Docker, CI/CD, MLflow, Evidently
 
