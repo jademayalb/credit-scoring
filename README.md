@@ -47,8 +47,7 @@ pytest tests/
 
 ## Démo API en production
 
-L'API est déployée sur Heroku :  
-[https://credit-scoring-jademayalb-db8bcc609fed.herokuapp.com/predict/<client_id>](https://credit-scoring-jademayalb-db8bcc609fed.herokuapp.com/predict/<client_id>)
+L'API est déployée sur Heroku.
 
 ## Auteur
 
