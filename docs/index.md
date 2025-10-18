@@ -19,7 +19,7 @@ Vous trouverez ci-dessous les liens vers les principaux composants de ce projet 
 * [**Presentation du projet**](https://github.com/jademayalb/credit-scoring/blob/8849f4cb65e192b86f505e923605e69c2853ce50/docs/presentation.pdf)
 * [**Code source de l'API Flask**](https://github.com/jademayalb/credit-scoring/tree/main/app)
 * [**Notebooks de modélisation**](https://github.com/jademayalb/credit-scoring/tree/main/notebooks)
-* [**Interface Streamlit**](https://github.com/jademayalb/credit-scoring/blob/main/app_streamlit.py)
+* [**Interface Streamlit**](https://github.com/jademayalb/credit-scoring/blob/05eeb9eae81187b2bb6989445c67576a2773f5d8/app_streamlit/app_streamlit.py)
 * [**Rapports d'analyse de dérive**](https://github.com/jademayalb/credit-scoring/tree/main/tableau_html)
 * [**Tests unitaires**](https://github.com/jademayalb/credit-scoring/tree/main/tests)
 
