@@ -18,10 +18,10 @@ Les objectifs clés de ce projet sont les suivants :
 Vous trouverez ci-dessous les liens vers les principaux composants de ce projet :
 * [**Presentation du projet**](https://github.com/jademayalb/credit-scoring/blob/8849f4cb65e192b86f505e923605e69c2853ce50/docs/presentation.pdf)
 * [**Code source de l'API Flask**](https://github.com/jademayalb/credit-scoring/tree/main/app)
-* [**Notebooks de modélisation**](https://github.com/jademayalb/credit-scoring/tree/main/notebooks)
+* [**Notebooks de modélisation**](https://github.com/jademayalb/credit-scoring/blob/63575a43b55b9f6b330aa373131b75f2b5dcc940/notebooks/notebook_mode%CC%81lisation.ipynb)
 * [**Interface Streamlit**](https://github.com/jademayalb/credit-scoring/blob/05eeb9eae81187b2bb6989445c67576a2773f5d8/app_streamlit/app_streamlit.py)
 * [**Rapports d'analyse de dérive**](https://github.com/jademayalb/credit-scoring/tree/main/tableau_html)
-* [**Tests unitaires**](https://github.com/jademayalb/credit-scoring/tree/main/tests)
+* [**Tests unitaires**](https://github.com/jademayalb/credit-scoring/tree/main/tests) 
 
 💻 **Technologies utilisées :** Python, Jupyter Notebook, Flask, Streamlit, Docker, CI/CD, MLflow, Evidently
 
