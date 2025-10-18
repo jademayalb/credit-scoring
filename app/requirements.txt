@@ -1,0 +1,9 @@
+numpy==1.24.4
+pandas
+scikit-learn==1.2.2
+flask
+joblib
+imblearn
+xgboost
+lightgbm
+gunicorn
